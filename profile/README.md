@@ -1,4 +1,4 @@
-<p align="center"><img alt="NoWare Development logo" src="https://raw.githubusercontent.com/NoWare-Development/.github/main/profile/noware_anim.gif"></p>
+<p align="center"><img alt="NoWare Development logo" src="https://raw.githubusercontent.com/NoWare-Development/.github/main/noware_anim.gif"></p>
 
 ## Products
 * [nAlloc](https://github.com/NoWare-Development/nalloc) - simple arena allocator written in C
