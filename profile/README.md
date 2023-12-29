@@ -5,6 +5,7 @@
 * [NotHashy](https://github.com/NoWare-Development/nothashy) - simple hash table implementation written in C
 * [MC-Purity](https://github.com/NoWare-Development/mc-purity) - a mod for Minecraft Beta 1.7.3
 * [HL-Shaders](https://github.com/NoWare-Development/hl-shaders) - custom shaders for Half-Life 25 Anniversary
+* [NoHex](https://github.com/NoWare-Development/nohex) - simple HEX dumper
 
 ## Members
 * [Nyvyme](https://github.com/Nyvyme) - Founder, Lead programmer
