@@ -9,4 +9,3 @@
 
 ## Members
 * [Nyvyme](https://github.com/Nyvyme) - Founder, Lead programmer
-* [Ouki76](https://github.com/Ouki76) - Programmer
