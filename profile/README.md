@@ -2,6 +2,7 @@
 
 ## Products
 * [NoWare-Tools](https://github.com/NoWare-Development/noware-tools) - pack of tools for reverse engineering (UNCOMPLETE)
+* [SinTableGen](https://github.com/NoWare-Development/sintablegen) - simple utility to generate sin tables
 * [nAlloc](https://github.com/NoWare-Development/nalloc) - simple arena allocator written in C
 * [NotHashy](https://github.com/NoWare-Development/nothashy) - simple hash table implementation written in C
 * [MC-Purity](https://github.com/NoWare-Development/mc-purity) - a mod for Minecraft Beta 1.7.3
